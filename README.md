@@ -4,7 +4,7 @@
 
 ### Full Stack Developer & Bilgisayar Mühendisi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2EA3F2&center=true&vCenter=true&width=650&lines=PHP+%2F+Laravel+ile+ölçeklenebilir+sistemler+kuruyorum;React+%2B+FastAPI+ile+uçtan+uca+ürün+geliştiriyorum;Yapay+zekâ+entegrasyonlarıyla+gerçek+problemler+çözüyorum;Temiz+kod%2C+ölçüm%2C+ve+sonuç+odaklı+çalışırım." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2EA3F2&center=true&vCenter=true&width=650&lines=PHP%20%2F%20Laravel%20ile%20%C3%B6l%C3%A7eklenebilir%20sistemler%20kuruyorum;React%20%2B%20FastAPI%20ile%20u%C3%A7tan%20uca%20%C3%BCr%C3%BCn%20geli%C5%9Ftiriyorum;Yapay%20zek%C3%A2%20entegrasyonlar%C4%B1yla%20ger%C3%A7ek%20problemler%20%C3%A7%C3%B6z%C3%BCyorum;Temiz%20kod%2C%20%C3%B6l%C3%A7%C3%BCm%20ve%20sonu%C3%A7%20odakl%C4%B1%20%C3%A7al%C4%B1%C5%9F%C4%B1r%C4%B1m." alt="Typing SVG" />
 
 [![Gaziantep, Türkiye](https://img.shields.io/badge/📍-Gaziantep,_Türkiye-2EA3F2?style=for-the-badge&labelColor=1a1a2e)](https://github.com/muhammetalisuzer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammet-ali-süzer)
